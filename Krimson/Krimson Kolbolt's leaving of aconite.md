@@ -1,4 +1,4 @@
-Krimson wanted to leave aconite, and ended up doing it in a very - destructive way.
+  Krimson wanted to leave aconite, and ended up doing it in a very - destructive way.
 ____
 # Table of contents
 
@@ -67,9 +67,9 @@ Krimson then messaged Arathain, asking if " Charter " had ever been sent around.
 
 Illogically, he used this to set Nyx and Herobrine to grief Nopeable's base on the smp
 
-![[Nyx Admitting part 1.png]]
-![[Nyx Admitting part 2.png]]
-![[Herobrine Admitting.png]]
+![Nyx Admits #1](https://github.com/thatoneaiguy/Archive-of-our-own/blob/main/Krimson/Assets/Nyx%20Admitting%20part%201.png)
+![Nyx Admits #2](https://github.com/thatoneaiguy/Archive-of-our-own/blob/main/Krimson/Assets/Nyx%20Admitting%20part%202.png)
+![Herobrine Admits](https://github.com/thatoneaiguy/Archive-of-our-own/blob/main/Krimson/Assets/Herobrine%20Admitting.png)
 
 ## Smudgy
 And finally, When we thought all was over, Smudgy sends us a threat
