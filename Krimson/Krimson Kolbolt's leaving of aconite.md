@@ -2,12 +2,12 @@ Krimson wanted to leave aconite, and ended up doing it in a very - destructive w
 ____
 # Table of contents
 
-- [[#How Krimson became correlated with Aconite.|How Krimson became correlated with Aconite.]]
-- [[#Carved|Carved]]
-- [[#Smudgy's Threat]]
+- [Associated](#Associated)
+- [Carved](#Carved)
+- [Smudgy's Threat](#Smudgy)
 
 ----
-## How Krimson became correlated with Aconite.
+## Associated
 Krimson was originally connected to the Aconite Friend Group when they had been in Unlucky's discord server at the time of Unlucky SMP.
 He was asked and added to the server due to his presence in Unlucky's discord server and his connection to Nopeable from the past.
 
@@ -34,8 +34,8 @@ Krimson was originally hesitate to agree to the change, however the original imp
 
 At the time of Carved production being at a close to done state, Krimson suggested an entirely new portion of Carved he called, “Carved Dangers”
 
-[[New danger parts of Carved!]] 
-![[New danger parts of Carved.png]] 
+[New danger part of Carved!](https://github.com/thatoneaiguy/Archive-of-our-own/blob/main/Krimson/Assets/New%20danger%20parts%20of%20Carved!.md)
+![New danger part of Carved](https://github.com/thatoneaiguy/Archive-of-our-own/blob/main/Krimson/Assets/New%20danger%20parts%20of%20Carved.png)
 
 Later on, while Spirit Fire was being developed, Nopeable was again informed by Winter about most of the stuff that Krimson wanted to implement. As well as expressing a general dislike towards Krimson new direction towards Carved.
 
@@ -49,8 +49,8 @@ Krimson was not happy with this, but eventually decided to move these features t
 
 He came up with a new idea, Plants
 
-[[Plants!~]]
-![[Plants!~.png]]
+[Plants!~](https://github.com/thatoneaiguy/Archive-of-our-own/blob/main/Krimson/Assets/Plants!~.md)
+![Plants!~](https://github.com/thatoneaiguy/Archive-of-our-own/blob/main/Krimson/Assets/Plants!~.png)
 
 Winter didn't want to - or couldn't - make this. But Krimson was adamant, saying if he didn't make it, he would stop making textures for the mod.
 
@@ -71,6 +71,8 @@ Illogically, he used this to set Nyx and Herobrine to grief Nopeable's base on t
 ![[Nyx Admitting part 2.png]]
 ![[Herobrine Admitting.png]]
 
-## Smudgy's Threat
-And finally, When we thought all was over, Smudgy sends us a threat 
-[[Smudgy's Threat]]![[Smudgy's Threat.png]]
+## Smudgy
+And finally, When we thought all was over, Smudgy sends us a threat
+
+[Smudgy's Threat](https://github.com/thatoneaiguy/Archive-of-our-own/blob/main/Krimson/Assets/Smudgy's%20Threat.md)
+![Smudgy's Threat](https://github.com/thatoneaiguy/Archive-of-our-own/blob/main/Krimson/Assets/Smudgy's%20Threat.png)
