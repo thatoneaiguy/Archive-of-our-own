@@ -1,0 +1,4 @@
+hey man
+you wanna know something?
+I know what you, pipobutters, and Nopeable did. What you guys did to Krimson. Kicked him out of HIS OWN MOD. You guys basically stole his mod. And before that, you also wouldn't listen to the things he wanted added to HIS mod. You, pipobutter, and Nopeable are nothing but absolute ASSHOLES. And just so you know, you can't fucking lie to us to try to turn things around. That's right. Us. The people of Starborn, me (who isn't part of Starborn), and many other people have seen Krimson IN PROGRESS OF DOING HIS HARD WORK, and he even still has the stuff with the sprites on his PC. We all can easily ruin your lives. Enjoy burning in hell. 
+And one more thing, let Nopeable he has a special place ready at the very bottom of Hell JUST FOR HIM.
